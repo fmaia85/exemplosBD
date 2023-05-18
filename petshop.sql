@@ -1835,5 +1835,3 @@ SELECT * FROM pessoa;
 SELECT * FROM pet;
 
 SELECT * FROM reserva;
-
-
