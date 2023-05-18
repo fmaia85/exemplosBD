@@ -1836,5 +1836,4 @@ SELECT * FROM pet;
 
 SELECT * FROM reserva;
 
-SELECT * FROM pessoa JOIN pet USING(cpf);
 
